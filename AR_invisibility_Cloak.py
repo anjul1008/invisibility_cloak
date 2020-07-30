@@ -6,11 +6,7 @@ from time import sleep
 from loguru import logger as log
 
 log.info("Author: Anjul Sharma.")
-log.info("""
-
-Anjul:  Hey !! Would you like to try my Harry Potter invisibility cloak??
-	Its awesome\U0001F60A
-    """)
+log.info("""\n\nAnjul:  Hey !! Would you like to try my Harry Potter invisibility cloak??\n\tIts awesome\U0001F60A""")
 
 cap = cv2.VideoCapture(0)
 sleep(3)
@@ -64,8 +60,7 @@ while(cap.isOpened()):
 		log.info("Press ESC to close.")
 		plog = False
 	if k == 27:
-		log.success("""
-					\nIf you like it, Please Appreciate\U0001f44d \nAnjul khush hoga\U0001F92A, shabashi dega\U0001F910\n""")
+		log.success("""\n\nIf you like it, Please Appreciate\U0001f44d \nAnjul khush hoga\U0001F92A, shabashi dega\U0001F910\n""")
 		break
 		
 
