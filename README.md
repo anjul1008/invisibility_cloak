@@ -1,16 +1,13 @@
 # Invisibility Cloak
 
-![Recordit GIF](gif1.gif) 
-### View [Full video](https://www.youtube.com/watch?v=LcoxbDqEf3A)
-
 
 Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well it turns out that 
 using simple image processing tricks I can now actually fulfil my childhood fantasy. 
-This [code](AR_invisibility_Cloak.py) turns a `red` colour cloth into an invisibility cloak.
+This [code](invisibility_Cloak.py) turns a `red` colour cloth into an invisibility cloak.
 
 >- It's a fun application which you will enjoy using.
 >- You can learn some key functions of opencv from this project. 
->- Refer a detailed [Tutorial](Tutorial.md) explaining the [code](AR_invisibility_Cloak.py).
+>- Refer a detailed [Tutorial](Tutorial.md) explaining the [code](invisibility_Cloak.py).
 
 ---
 
@@ -33,13 +30,5 @@ This [code](AR_invisibility_Cloak.py) turns a `red` colour cloth into an invisib
 > - loguru
 ---
 
-##  This is how it works
-![Recordit GIF](gif2.gif) 
-### Refer the [Tutorial](Tutorial.md) for detailed explanation of the code.
 
 
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
