@@ -3,11 +3,9 @@
 
 Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well it turns out that 
 using simple image processing tricks I can now actually fulfil my childhood fantasy. 
-This [code](invisibility_Cloak.py) turns a `red` colour cloth into an invisibility cloak.
+This turns a `red` colour cloth into an invisibility cloak.
 
 >- It's a fun application which you will enjoy using.
->- You can learn some key functions of opencv from this project. 
->- Refer a detailed [Tutorial](Tutorial.md) explaining the [code](invisibility_Cloak.py).
 
 ---
 
@@ -17,7 +15,7 @@ This [code](invisibility_Cloak.py) turns a `red` colour cloth into an invisibili
 
 #### Clone
 
-- Clone this repo to your local machine using `https://github.com/kaustubh-sadekar/Invisibility_Cloak.git`
+- Clone this repo to your local machine using `https://github.com/anjul1008/invisibility_cloak.git`
 
 #### Setup/Requirements
 
