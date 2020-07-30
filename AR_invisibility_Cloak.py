@@ -6,7 +6,7 @@ from time import sleep
 from loguru import logger as log
 
 log.info("Author: Anjul Sharma.")
-log.info("""\n\nAnjul:  Hey !! Would you like to try Harry Potter invisibility cloak??\n\tIts awesome\U0001F60A""")
+log.info("""\n\nHey!! Would you like to try Harry Potter invisibility cloak??\nIts awesome\U0001F60A""")
 
 cap = cv2.VideoCapture(0)
 sleep(3)
