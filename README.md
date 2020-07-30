@@ -19,7 +19,7 @@ This turns a `red` colour cloth into an invisibility cloak.
 
 #### Setup/Requirements
 
-> The code is written in Python (`Python3`)
+> The code is written in Python (`Python3.7`)
 > You need the following libraries
 > - numpy
 > - OpenCV
